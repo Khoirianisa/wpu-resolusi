@@ -9,3 +9,4 @@ RENCANA KULIAH WPU
 -Membuat daftar aktivitas
 -Belajar struktur data dasar
 -Belajar Python
+-Belajar C++
