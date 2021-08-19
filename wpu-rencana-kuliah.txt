@@ -3,6 +3,8 @@ RENCANA KULIAH WPU
 -belajar PHP
 -Menyelesaikan tugas
   *Tugas Pemograman Sistem Bergerak
+  ^Laporan playlist YouTube
   *Tugas Sistem Operasi Jaringan
+  ^install debian 8
 -Membuat daftar aktivitas
 -Belajar struktur data dasar
