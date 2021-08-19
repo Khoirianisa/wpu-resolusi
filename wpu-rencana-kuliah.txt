@@ -3,6 +3,9 @@ RENCANA KULIAH WPU
 -belajar PHP
 -Menyelesaikan tugas
   *Tugas Pemograman Sistem Bergerak
+  ^Laporan
   *Tugas Sistem Operasi Jaringan
+  ^install VMware
 -Membuat daftar aktivitas
 -Belajar struktur data dasar
+-Belajar Python
