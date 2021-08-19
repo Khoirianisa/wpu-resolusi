@@ -5,3 +5,4 @@ RENCANA KULIAH WPU
   *Tugas Pemograman Sistem Bergerak
   *Tugas Sistem Operasi Jaringan
 -Membuat daftar aktivitas
+-Belajar struktur data dasar
